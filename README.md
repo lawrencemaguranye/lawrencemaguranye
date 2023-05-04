@@ -8,7 +8,7 @@ Currently, I'm open to remote and on-site opportunities in roles such as SQL Dev
 
 ### 📚 Projects
 
-Welcome to my portfolio, where I showcase my projects.
+Welcome to my portfolio, where I showcase my [projects](https://github.com/lawrencemaguranye/Portfolio-Guide).
 
 ### 🛠️ Tools
 
