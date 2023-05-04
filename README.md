@@ -1,16 +1,14 @@
-### Hi there 👋
+Introducing Myself
+I'm Lawrence, a Data Professional with a strong focus in SQL, Python, Tableau and Power BI. I share all my portfolio projects here on Github, and where necessary I also provide project documentation to improve stakeholder understanding.
 
-<!--
-**lawrencemaguranye/lawrencemaguranye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+With expertise in query optimization, database design, data modelling, data analysis and data visualization, I'm passionate about helping businesses make sense of their data.
 
-Here are some ideas to get you started:
+Currently, I'm open to remote and on-site opportunities in roles such as SQL Developer, Data Analyst and Business Intelligence Analyst.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Projetcs
+Welcome to my portfolio, where I showcase my projects.
+
+Tools
+Database: Google BigQuery, MySQL, PostgreSQL, SQL Server
+Python: NumPy, Pandas
+Business Intelligence: Tableau, Power BI
