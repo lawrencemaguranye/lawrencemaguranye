@@ -1,4 +1,4 @@
-## 🙋🏻‍♀️ Hi there!
+## Hi there!
 
 I'm Lawrence, a Data Professional with a strong focus in SQL, Python, Tableau and Power BI. I share all my portfolio projects here on Github, and where necessary I also provide project documentation to improve stakeholder understanding.
 
